@@ -1,0 +1,6 @@
+Run css2less.bash in your project directory.
+
+e.g. cd /project/folder
+     /path/to/css2less.bash
+
+A ".less" file will be generated beside each ".css" file found inside the current directory and all subdirectories.
